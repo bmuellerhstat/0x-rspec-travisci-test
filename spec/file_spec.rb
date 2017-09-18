@@ -8,7 +8,7 @@ describe "TOPIC" do
 		end
 	end
 	
-	describe "#method" do
+	describe "#method2" do
 		it "returns" do
 			expect(method2).to eq('this is test 2')
 		end
